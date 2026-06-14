@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lint>
+    <issue id="SetTextI18n">
+        <ignore path="src/main/java/com/liming/livestage/MainActivity.java" />
+    </issue>
+</lint>
