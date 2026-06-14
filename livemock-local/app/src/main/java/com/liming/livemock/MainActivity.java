@@ -1,0 +1,1 @@
+package com.liming.livemock;import android.app.*;import android.os.*;import android.view.*;import android.widget.*;public class MainActivity extends Activity{protected void onCreate(Bundle b){super.onCreate(b);setContentView(new TextView(this));}}
