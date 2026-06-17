@@ -16,3 +16,4 @@ I will maintain this project actively, including:
 ## Contributing
 Feel free to open issues or submit PRs. All contributions are welcome!# easy-open-source-tool
 A simple open source tool for developers
+## Changelog\n- v1.0.0: Initial release
